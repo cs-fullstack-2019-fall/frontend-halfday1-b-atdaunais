@@ -43,3 +43,6 @@ Toggle background colors on and off.
 
 ### Challenge3
 Make keyboard and mouse options. Disable and stop events from counting the points when the option is not chosen. 
+
+### Kenn's Notes:
+Good job. Full points.
